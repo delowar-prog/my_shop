@@ -1,0 +1,13 @@
+.topbar mb-4{
+   margin-top: 0; !important;
+}
+.breadcrumb{
+    background: #92B4F1 ;
+}
+.bg_color{
+    background-color:#4C86FA;
+}
+.action-button{
+    display: flex;
+    justify-content: center;
+}
